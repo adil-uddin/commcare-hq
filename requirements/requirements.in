@@ -42,7 +42,7 @@ django-websocket-redis==0.6.0
 django~=2.2.16
 djangorestframework~=3.12.2
 dnspython==1.15.0
-dropbox==9.3.0
+dropbox==11.1.0
 elasticsearch==1.9.0
 elasticsearch2>=2.0.0,<3.0.0
 elasticsearch7>=7.9.1,<8.0.0
