@@ -206,7 +206,7 @@ docutils==0.15.2
     #   -r dev-requirements.in
     #   recommonmark
     #   sphinx
-dropbox==9.3.0
+dropbox==11.2.0
     # via -r requirements.in
 elasticsearch2==2.5.1
     # via -r requirements.in
@@ -389,6 +389,7 @@ ply==3.11
     # via
     #   eulxml
     #   jsonpath-rw
+    #   stone
 polib==1.1.0
     # via -r requirements.in
 prometheus-client==0.7.1
@@ -568,6 +569,7 @@ six==1.15.0
     #   quickcache
     #   requests-mock
     #   sqlalchemy-postgres-copy
+    #   stone
     #   tenacity
     #   traitlets
     #   transifex-client
@@ -620,6 +622,8 @@ sqlparse==0.3.1
     # via
     #   django
     #   django-debug-toolbar
+stone==3.2.1
+    # via dropbox
 stripe==2.54.0
     # via -r requirements.in
 suds-jurko==0.6
