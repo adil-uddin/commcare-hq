@@ -4908,9 +4908,10 @@ quick-lru@^4.0.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-4.0.1.tgz#5b8878f113a58217848c6482026c73e1ba57727f"
   integrity sha512-ARhCpm70fzdcvNQfPoy49IaanKkTlRWF2JMzqhcJbhSFRZv7nPTvZJdcY7301IPmvW+/p0RgIWnQDLJxifsQ7g==
 
-quicksearch@DeuxHuitHuit/quicksearch#2.2.1:
-  version "2.2.1"
-  resolved "https://codeload.github.com/DeuxHuitHuit/quicksearch/tar.gz/05089bc3aa95a68eee2f7f484a304be06a8f1303"
+quicksearch@DeuxHuitHuit/quicksearch#2.4.0:
+  version "2.4.0"
+  uid cf5d29e930f4261a16c43b585daa77b62e15f707
+  resolved "https://codeload.github.com/DeuxHuitHuit/quicksearch/tar.gz/cf5d29e930f4261a16c43b585daa77b62e15f707"
   dependencies:
     jquery ">=1.8"
 
