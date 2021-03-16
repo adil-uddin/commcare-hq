@@ -49,7 +49,7 @@
         "datatables-scroller": "DataTables/Scroller#^1.5.1",
         "datetimepicker": "npm:jquery-datetimepicker#2.5.4",
         "eonasdan-bootstrap-datetimepicker": "4.17.49",
-        "detectrtc": "1.4.0",
+        "detectrtc": "1.4.1",
         "fast-levenshtein": "2.0.6",
         "font-awesome": "4.7.0",
         "intl-tel-input": "9.0.7",
